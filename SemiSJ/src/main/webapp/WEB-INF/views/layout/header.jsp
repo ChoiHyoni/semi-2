@@ -1,0 +1,37 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> : : : 2팀영화예매 : : :</title>
+
+<!-- jQuery 2.2.4 -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+<!-- 부트스트랩 3 -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+<style type="text/css">
+#header, #footer {
+	text-align: center;
+	background: navy;
+	color: white;
+}
+
+#header h1 a {
+	text-decoration: none;
+	color: white;
+}
+</style>
+
+</head>
+<body>
+
+<header id="header">
+	<h1><a href="/">2조 영화관</a></h1>
+</header>
+
+<div class="container">
